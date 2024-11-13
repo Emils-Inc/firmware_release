@@ -1,7 +1,7 @@
 {
     "0":"Wired8k_LPC_QFP",
-    "4":"RF4k_Dongle_V0_CH32V_QFN28",
-    "8":"RF4k_Dongle_V0_nRF52832",
-    "12":"RF4k_Main_V0_nRF52840",
+    "4":"Dongle_V0_CH32V_QFN28",
+    "8":"Dongle_V0_nRF52832",
+    "12":"RF4k_V0_nRF52840",
     "16":"Wired8k_CH32V_QFN28"
 }
